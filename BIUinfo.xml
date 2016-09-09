@@ -17,6 +17,10 @@
     <playlist>00003</playlist>
     <starttime>00:01:00</starttime>
   </video>
+  <video filename="s01e04.strm">
+    <isofile>.BIUfiles/Firefly.s01e01.s01e02.s01e03.s01e04.BluRay.iso</isofile>
+    <playlist>00009</playlist>
+  </video>
   <video filename="s01e07.BluRay.BIUvideo.mp4">
     <isofile>.BIUfiles/Firefly_Disc_02.iso</isofile>
     <playlist>00004</playlist>
